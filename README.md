@@ -1,7 +1,7 @@
-# DL@Janelia 2026 Exercises
+# DL@Janelia 2027 Exercises
 
 This repository contains the exercises for the "Deep Learning for Microscopy
-Image Analysis" 2026 bootcamp course at HHMI Janelia.
+Image Analysis" 2027 bootcamp course at HHMI Janelia.
 
 This is a "super repository", containing the actual exercise repositories as
 git submodules. To see the exercises, run the following after cloning this
